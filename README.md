@@ -1,1 +1,1 @@
-# Federated Learning Algorithm Project
+# Federated Learning Algorithm Project - Kimchann Chon
