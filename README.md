@@ -1,1 +1,1 @@
-# federated-learning
+# Federated Learning Project
